@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-I'm [Pratik Pokharel](https://github.io/pratikpokharel3), a passionate Software Engineer based in Kathmandu, Nepal. <br/> 
+I'm [Pratik Pokharel](https://pratikpokharel3.github.io), a passionate Software Engineer based in Kathmandu, Nepal. <br/> 
 
 I specialize in modern web development, with a focus on building next-generation digital experiences. I'm committed to writing clean, scalable code and delivering high-performance solutions that are both user-friendly and technically robust. <br/>
 
